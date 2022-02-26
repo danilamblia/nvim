@@ -14,5 +14,4 @@ set fileformat=unix
 set keymap=russian-jcukenwin
 set iminsert=0 
 set imsearch=0 
-inoremap <C-l> <C-^> 
-highlight lCursor guifg=NONE guibg=Cyan 
+inoremap <C-l> <C-^>  
