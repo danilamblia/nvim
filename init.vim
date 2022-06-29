@@ -1,4 +1,4 @@
-set mouse=a  " enable mouse
+set mouse=a 
 set encoding=utf-8
 set number
 set noswapfile
@@ -14,4 +14,4 @@ set fileformat=unix
 set keymap=russian-jcukenwin
 set iminsert=0 
 set imsearch=0 
-inoremap <C-l> <C-^>  
+inoremap <C-l> <C-^>
