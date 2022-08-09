@@ -11,6 +11,9 @@ set expandtab
 set autoindent
 set fileformat=unix
 
+set textwidth=67
+set wrap linebreak
+
 set keymap=russian-jcukenwin
 set iminsert=0 
 set imsearch=0 
