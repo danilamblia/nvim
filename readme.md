@@ -8,7 +8,7 @@
 
 for vim 
 
-- paste content to `~/.vimrc` 
+- paste content from `init.vim` to `~/.vimrc` 
 
 for nvim 
 
