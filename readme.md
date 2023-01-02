@@ -6,11 +6,11 @@
 
 ## installation 
 
-for vim 
+**for vim** 
 
 - paste content from `init.vim` to `~/.vimrc` 
 
-for nvim 
+**for nvim** 
 
 ```bash
 cd .config
